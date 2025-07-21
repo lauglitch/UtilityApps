@@ -13,18 +13,16 @@ Está diseñada para probar mecánicas de generación de recursos en juegos o pr
 ---
 
 ## Características
-
-- Generación ponderada de esencias según probabilidades definidas.
+- Permite introducir manualmente el porcentaje de aparición de cada esencia.
 - Interfaz sencilla y visual con botón para generar.
 - Historial de esencias generadas.
 - Contador de esencias totales.
-- Botón para cerrar la aplicación.
 
 ---
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.6
 - Módulo `tkinter`
 
 ---

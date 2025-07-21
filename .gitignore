@@ -1,10 +1,21 @@
+# Bytecode
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.bak
+
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales
 *.log
 *.tmp
-dist/
+
+# Compilaciones de PyInstaller
 build/
-.env
-*.exe
+dist/
+*.spec
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

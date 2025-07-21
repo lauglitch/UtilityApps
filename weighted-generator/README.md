@@ -10,6 +10,8 @@ Esta utilidad permite generar aleatoriamente una esencia elemental (Tierra, Aire
 
 Está diseñada para probar mecánicas de generación de recursos en juegos o prototipos.
 
+<img width="760" height="572" alt="weightedgenerator_img" src="https://github.com/user-attachments/assets/523e9632-7a0c-4453-94e5-6eb86bf0a670" />
+
 ---
 
 ## Características

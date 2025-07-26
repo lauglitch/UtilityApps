@@ -7,7 +7,8 @@ Este repositorio centraliza varios proyectos y aplicaciones pequeñas útiles de
 ## Proyectos incluidos
 
 - **weighted-generator**: Generador de esencias elementales con probabilidades ponderadas, con interfaz gráfica en Tkinter.
-  <img width="760" height="572" alt="weightedgenerator_img" src="https://github.com/user-attachments/assets/9c52f0cf-f11e-49c8-9786-4a18165d55aa" />
+<img width="831" height="630" alt="image" src="https://github.com/user-attachments/assets/e6fbcfa8-fac9-450e-8343-ae31952238b4" />
+
 
   Más info en la carpeta [weighted-generator](./weighted-generator).
 

@@ -1,0 +1,10 @@
+.env
+*.env
+PyWhatKit_DB
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+
